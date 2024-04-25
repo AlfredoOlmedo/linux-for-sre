@@ -12,9 +12,7 @@
 
 
 
-# # Curso de Introduccion a la admnistracion de servidores linux
-
-
+# Curso de Introduccion a la admnistracion de servidores linux
 
 ## Configuracion basica para un servidor remoto
 
@@ -382,5 +380,3 @@ editar crontab
 ```
 crontab -e
 ```
-
-
